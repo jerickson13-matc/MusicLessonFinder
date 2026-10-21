@@ -7,9 +7,9 @@
 - [x] Finalize user stories
 - [x] Clearly identify MVP user stories
 - [x] Complete project plan
-- [ ] Create screen designs
-- [ ] Write reflection statements
-- [ ] Push all Checkpoint 1 work to GitHub
+- [x] Create screen designs
+- [x] Add timelog
+- [x] Push all Checkpoint 1 work to GitHub
 
 ### Checkpoint 2
 - [ ] Finalize database design
