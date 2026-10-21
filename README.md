@@ -48,14 +48,12 @@ The goal is to make finding local music lessons easier for students while giving
 
 ## Design
 
-- User Stories (to be added)
+* [User Stories](DesignDocuments/userStories.md)
 - Screen Designs / Wireframes (to be added)
 - Database Design / ER Diagram (to be added)
 
-## Project Plan
-
-To be added.
+## [Project Plan](ProjectPlan.md)
 
 ## Progress
 
-to be added.
+#### [TimeLog](2024TimeLog.md)
