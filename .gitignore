@@ -39,4 +39,4 @@ build/
 .DS_Store
 
 ## TODO git ignore sensitive files and log files
-/geocodio.properties
+/src/test/resources/geocodio.properties

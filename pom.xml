@@ -73,19 +73,19 @@
       <artifactId>log4j-core</artifactId>
       <version>${log4j-version}</version>
     </dependency>
-  </dependencies>
-  <!--  Jersey dependencies  -->
-  <dependency>
-    <groupId>org.glassfish.jersey.core</groupId>
-    <artifactId>jersey-client</artifactId>
-    <version>${jersey-version}</version>
-  </dependency>
+    <!--  Jersey dependencies  -->
+    <dependency>
+      <groupId>org.glassfish.jersey.core</groupId>
+      <artifactId>jersey-client</artifactId>
+      <version>${jersey-version}</version>
+    </dependency>
 
-  <dependency>
-    <groupId>org.glassfish.jersey.inject</groupId>
-    <artifactId>jersey-hk2</artifactId>
-    <version>${jersey-version}</version>
-  </dependency>
+    <dependency>
+      <groupId>org.glassfish.jersey.inject</groupId>
+      <artifactId>jersey-hk2</artifactId>
+      <version>${jersey-version}</version>
+    </dependency>
+  </dependencies>
   <build>
     <finalName>MusicLessonFinder</finalName>
     <pluginManagement>
