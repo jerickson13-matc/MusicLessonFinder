@@ -1,3 +1,5 @@
+package com.jackerickson.musiclessonfinder.test.util;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -16,7 +18,7 @@ import java.util.Properties;
 
 public class Database {
 
-    // create an object of the class Database
+    // create an object of the class com.jackerickson.musiclessonfinder.test.util.Database
     private static Database instance = new Database();
 
     private Properties properties;
@@ -36,16 +38,16 @@ public class Database {
         try {
             properties.load (this.getClass().getResourceAsStream("/database.properties"));
         } catch (IOException ioe) {
-            System.out.println("Database.loadProperties()...Cannot load the properties file");
+            System.out.println("com.jackerickson.musiclessonfinder.test.util.Database.loadProperties()...Cannot load the properties file");
             ioe.printStackTrace();
         } catch (Exception e) {
-            System.out.println("Database.loadProperties()..." + e);
+            System.out.println("com.jackerickson.musiclessonfinder.test.util.Database.loadProperties()..." + e);
             e.printStackTrace();
         }
 
     }
 
-    /** get the only Database object available
+    /** get the only com.jackerickson.musiclessonfinder.test.util.Database object available
      @return the single database object
      */
     public static Database getInstance() {
@@ -68,7 +70,7 @@ public class Database {
         try {
             Class.forName(properties.getProperty("driver"));
         } catch (ClassNotFoundException e) {
-            throw new Exception("Database.connect()... Error: MySQL Driver not found");
+            throw new Exception("com.jackerickson.musiclessonfinder.test.util.Database.connect()... Error: MySQL Driver not found");
         }
 
         String url = properties.getProperty("url");

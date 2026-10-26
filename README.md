@@ -11,7 +11,7 @@ The goal of Music Lesson Finder is to make finding local music lessons easier fo
 
 - **Security/Authentication**
     - AWS Cognito
-- **Database**
+- **com.jackerickson.musiclessonfinder.test.util.Database**
     - MySQL 8.x
 - **ORM Framework**
     - Hibernate 6
@@ -49,7 +49,7 @@ The goal of Music Lesson Finder is to make finding local music lessons easier fo
 
 * [User Stories](DesignDocuments/userStories.md)
 * [Screen Design](DesignDocuments/Screens.md)
-* [Database Design](DesignDocuments/MusicLessonFinderERD.png)
+* [com.jackerickson.musiclessonfinder.test.util.Database Design](DesignDocuments/MusicLessonFinderERD.png)
 
 ## [Project Plan](ProjectPlan.md)
 

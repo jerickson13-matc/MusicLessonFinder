@@ -33,7 +33,7 @@
 - [ ] Connect authenticated users to application user records
 - [ ] Test signup, login, logout, and password reset
 
-### JSP and Database Integration
+### JSP and com.jackerickson.musiclessonfinder.test.util.Database Integration
 - [ ] Create `InstrumentServlet` to retrieve instruments using `InstrumentDao`
 - [ ] Create `instruments.jsp` to display instruments from MySQL
 - [ ] Test JSP and Hibernate integration
