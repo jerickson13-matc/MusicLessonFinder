@@ -15,3 +15,4 @@
 | 10/24/2026|Week 7 - Readings/video/Exercise|5| |
 | 10/25/2026|Week 8 - Readings/video/Exercise|6| |
 | 10/25/2026|Checkpoint #1 Updates|2| |
+| 10/26/2026|Checkpoint #2|3| |

@@ -12,14 +12,14 @@
 - [x] Push all Checkpoint 1 work to GitHub
 
 ### Checkpoint 2
-- [ ] Finalize database design
-- [ ] Create database tables in MySQL
-- [ ] Create Hibernate entity classes
-- [ ] Configure Hibernate
-- [ ] Implement one DAO with full CRUD
-- [ ] Unit test the DAO
-- [ ] Implement Log4J2
-- [ ] Push all Checkpoint 2 work to GitHub
+- [x] Finalize database design
+- [x] Create database tables in MySQL
+- [x] Create Hibernate entity classes
+- [x] Configure Hibernate
+- [x] Implement one DAO with full CRUD
+- [x] Unit test the DAO
+- [x] Implement Log4J2
+- [x] Push all Checkpoint 2 work to GitHub
 
 ## Week 9 - Checkpoint 3
 
