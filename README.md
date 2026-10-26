@@ -4,10 +4,9 @@
 
 Finding local music teachers can be challenging, as information about instructors, pricing, and available lessons is often spread across multiple websites and social media platforms. Teachers also rely on word of mouth or personal advertising to find new students.
 
-I would like to build **Music Lesson Finder**, a web application that connects students with local music teachers. Students will be able to search for lessons by instrument, ZIP code, and distance, similar to Indeed's location-based search. Teachers will be able to create profiles and post lessons with descriptions, pricing, and duration.
+Music Lesson Finder is a web application designed to connect students with local music teachers. The application allows students to search for lessons by instrument, ZIP code, and distance, similar to Indeed's location-based search. Teachers can create profiles and post lesson listings containing descriptions, pricing, and duration.
 
-The goal is to make finding local music lessons easier for students while giving teachers a centralized place to advertise their services.
-
+The goal of Music Lesson Finder is to make finding local music lessons easier for students while providing teachers with a centralized platform to advertise their services.
 ## Project Technologies/Techniques
 
 - **Security/Authentication**
