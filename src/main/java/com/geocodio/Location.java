@@ -1,4 +1,4 @@
-package com.Geocodio;
+package com.geocodio;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
