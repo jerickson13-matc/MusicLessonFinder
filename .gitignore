@@ -40,3 +40,6 @@ build/
 
 ## TODO git ignore sensitive files and log files
 /src/test/resources/geocodio.properties
+/src/main/resources/hibernate.cfg.xml
+/src/main/resources/log4j2.properties
+/logs

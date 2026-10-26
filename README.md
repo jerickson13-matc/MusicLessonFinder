@@ -49,7 +49,7 @@ The goal of Music Lesson Finder is to make finding local music lessons easier fo
 
 * [User Stories](DesignDocuments/userStories.md)
 * [Screen Design](DesignDocuments/Screens.md)
-- Database Design / ER Diagram (to be added)
+* [Database Design](DesignDocuments/MusicLessonFinderERD.png)
 
 ## [Project Plan](ProjectPlan.md)
 
