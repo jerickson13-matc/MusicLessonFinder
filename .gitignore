@@ -43,3 +43,4 @@ build/
 /src/main/resources/hibernate.cfg.xml
 /src/main/resources/log4j2.properties
 /logs
+/src/test/resources/database.properties
